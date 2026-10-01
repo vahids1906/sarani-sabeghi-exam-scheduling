@@ -1,8 +1,8 @@
-# sarani-sabeghi-job-scheduling
-Source code and computational experiments for job scheduling algorithms.
-# Job Scheduling and Graph Coloring Algorithms
+# sarani-sabeghi-exam-scheduling
+Source code and computational experiments for exam scheduling algorithms.
+# exam Scheduling and Graph Coloring Algorithms
 
-This repository contains the source code and computational implementations used in our research on graph coloring and job scheduling.
+This repository contains the source code and computational implementations used in our research on graph coloring and exam scheduling.
 
 ## Algorithms
 
